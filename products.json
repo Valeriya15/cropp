@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Blue Jacket",
+        "image": "blueJacket.jpg",
+        "description": "Blue Jacket",
+        "price": 499.00
+    },
+    {
+        "id": "2",
+        "title": "Sleeveless",
+        "image": "sleeveless.jpg",
+        "description": "Sleeveless",
+        "price": 699.00
+    },
+    {
+        "id": "3",
+        "title": "Spring Jacket",
+        "image": "springJacket.jpg",
+        "description": "Spring Jacket",
+        "price": 999.00
+    },
+    {
+        "id": "4",
+        "title": "Warm Jacket",
+        "image": "warmJacket.jpg",
+        "description": "Warm Jacket",
+        "price": 1299.00
+    }
+]
